@@ -1,6 +1,6 @@
 cask "wirdi" do
   version "1.0.3"
-  sha256 "6275d64766481d81d3bb195e4730b586e8f4359b348a9eccd49e696fd847501f"
+  sha256 "e64623042a4f47d23df548a25a9f80ecbc65880fd65d26a0a305cabe687037d4"
 
   url "https://github.com/davut/wirdi/releases/download/v1.0.3/Wirdi.dmg"
   name "Wirdi"

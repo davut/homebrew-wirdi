@@ -1,8 +1,8 @@
 cask "wirdi" do
-  version "1.0.1"
-  sha256 "c4c92ffb07f0135953bbe037a9ee9a52a4b1c9dc3df7a4742a2d5c8905c78612"
+  version "1.0.3"
+  sha256 "6275d64766481d81d3bb195e4730b586e8f4359b348a9eccd49e696fd847501f"
 
-  url "https://github.com/davut/wirdi/releases/download/v1.0.1/Wirdi.dmg"
+  url "https://github.com/davut/wirdi/releases/download/v1.0.3/Wirdi.dmg"
   name "Wirdi"
   desc "Quran reading companion with word-by-word tracking in a Dynamic Island overlay"
   homepage "https://github.com/davut/wirdi"
